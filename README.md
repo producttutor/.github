@@ -1,2 +1,3 @@
-# ProductTutor
-With Product Tutor, you can easily create interactive content, gain more visibility on search engines. https://producttutor.com/
+# .github
+
+This repo maintains the `.github` files that are inherited by each public project.
