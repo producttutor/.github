@@ -47,6 +47,6 @@ We kindly ask that you please use our issue templates to make the issues easier 
 ## Support and Questions
 
 1. See our [docs](https://producttutor.com/getting-started) for a walk-through of the features within our app.
-2. Join our [Slack](https://join.slack.com/t/slack-g0s1088/shared_invite/zt-1rt7h13hg-d5rmiJndQy3nQGmTsgqYWw) to chat with other users and get immediate help with members of the ProductTutor team.
+2. Join our [Slack](https://join.slack.com/t/producttutor/shared_invite/zt-1rt7h13hg-d5rmiJndQy3nQGmTsgqYWw) to chat with other users and get immediate help with members of the ProductTutor team.
 
 For anything else, please don't hesitate to reach out via email at support@producttutor.com
